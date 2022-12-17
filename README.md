@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cikipawyeye
 - 👀 I’m interested in mobile dev and backend
-- 🌱 I’m currently learning Flutter & NodeJS
+- 🌱 I’m currently learning at UTY
 
 - 📫 How to reach me parrjuu69@gmail.com
 
