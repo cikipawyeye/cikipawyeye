@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cikipawyeye
+- 👋 Hi, I’m Zufar Fainan
 - 👀 I’m interested in mobile dev and backend
 - 🌱 I’m currently learning at UTY
 
